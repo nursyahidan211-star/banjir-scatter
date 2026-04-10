@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "banjir-scatter",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "8b0374b2-1306-4ee8-88e6-d70b80c41f0b",
+			"database_name": "banjir-scatter"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
